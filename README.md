@@ -5,5 +5,5 @@ University, Pomona, Ca
 
 1. Business intelligence for excel
 2. [retail analytics] (https://colab.research.google.com/drive/18XHK9BLdtWe8Ba7fT_fWUgksyesaooQ5)
-3. Xloud infrastructure (cloud 9 IDE)
+3. Cloud infrastructure (cloud 9 IDE)
 4. Supervised machine learning
