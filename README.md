@@ -1,8 +1,6 @@
 # resume-portal for Sean
 
-# major projects in support of the Bachelors of Business
-Administration at California state Polytechnic 
-University, Pomona, Ca
+# major projects in support of the Bachelors of Business Administration at California state Polytechnic University, Pomona, Ca
 ## projects:
 
 1. Business intelligence for excel
